@@ -18,7 +18,7 @@ DESC
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.authors          = { 'David Chavez'     => 'david@dcvz.io',
                         'Jørgen Henrichsen' => 'jh.henrichs@gmail.com', }
-  s.source           = { :git => 'https://github.com/DoubleSymmetry/SwiftAudioEx.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/tvc97/SwiftAudioEx.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '11.0'
   s.swift_version = '5.0'
